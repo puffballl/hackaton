@@ -1,0 +1,60 @@
+body{
+    margin:0;
+    background-color: ghostwhite;
+    font-family: sans-serif;
+}
+
+section{
+    margin: 3em;
+}
+
+.nav{
+    overflow: hidden;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.nav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding-right: 2em;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.nav a:hover {
+    background-color: #85cb25;
+    color: white;
+}
+
+.begin{
+    text-align: center;
+
+}
+
+.ecoFP{
+    margin-top: 3em;
+
+
+
+    .sub1{
+        grid-area: sub1;
+    }
+    .sub2{
+        grid-area: sub2;
+    }
+    .sub3{
+        grid-area: sub3;
+    }
+    .sub4{
+        grid-area: sub4;
+    }
+
+
+
+}
+
+.hoofd{
+
+}
+
